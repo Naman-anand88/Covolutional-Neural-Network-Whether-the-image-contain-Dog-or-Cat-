@@ -1,1 +1,1 @@
-# Covolutional-Neural-Network_Whether-the-image-contain-Dog-or-Cat
+# Covolutional-Neural-Network_Whether-an-image-contain-Dog-or-Cat
